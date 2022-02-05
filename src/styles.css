@@ -2,9 +2,15 @@ body {
   background: #ffbc80;
 }
 
-h1 {
+h2 {
   text-align: center;
   color: #fc4f4f;
+}
+
+h1 {
+  font-size: small;
+  text-align: center;
+  color: blueviolet;
 }
 p {
   text-align: center;
