@@ -1,7 +1,22 @@
 body {
-  background: pink;
+  background: #ffbc80;
 }
 
 h1 {
   text-align: center;
+  color: #fc4f4f;
+}
+p {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.croissant-photo {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
 }
